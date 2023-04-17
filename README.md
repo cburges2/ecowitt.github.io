@@ -1,1 +1,3 @@
 # ecowitt.github.io
+
+Templates
