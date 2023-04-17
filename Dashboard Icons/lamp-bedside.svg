@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="lamp-bedside.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs10356" /><sodipodi:namedview
+   id="namedview10354"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.6542969"
+   inkscape:cx="226.98465"
+   inkscape:cy="304.66116"
+   inkscape:window-width="1920"
+   inkscape:window-height="1027"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   style="fill:#bdbdbd;stroke-width:0.824022"
+   d="m 318.87478,494.64492 c 0,-10.97856 -7.42185,-18.29753 -16.92182,-21.95706 H 199.23418 c -9.20311,3.65953 -16.92182,10.9785 -16.92182,21.95706 z"
+   id="path10319" />
+<path
+   style="fill:#140500;stroke-width:0.824022"
+   d="M 318.87478,498.30449 H 182.31236 c -1.78125,0 -2.96879,-1.46389 -2.96879,-3.65957 0,-11.3445 6.82814,-20.85932 19.00004,-25.61654 0.29685,0 0.59371,0 0.89057,0 h 102.71878 c 0.29686,0 0.59372,0 0.89057,0 11.87504,4.75722 19.00004,13.90611 19.00004,25.61654 0,2.19568 -1.48439,3.65957 -2.96879,3.65957 z m -133.29684,-7.31907 h 129.73434 c -1.78125,-8.7828 -9.79682,-12.8082 -13.95309,-14.63803 H 199.53103 c -3.85935,1.82983 -11.87492,5.85523 -13.95309,14.63803 z"
+   id="path10321" />
+<polyline
+   style="fill:#e0e0e0"
+   points="264,348 264,484 244,484 244,348 "
+   id="polyline10323"
+   transform="matrix(0.74218754,0,0,0.301505,60.593563,326.75939)" />
+<path
+   style="fill:#140500;stroke-width:0.47997"
+   d="m 256.53103,476.34739 h -14.84371 c -1.78125,0 -2.96879,-0.49664 -2.96879,-1.24158 v -42.21368 c 0,-0.74494 1.18754,-1.2416 2.96879,-1.2416 1.78125,0 2.96879,0.49666 2.96879,1.2416 v 40.97211 h 8.90625 v -40.97211 c 0,-0.74494 1.18742,-1.2416 2.96867,-1.2416 1.78125,0 2.96879,0.49666 2.96879,1.2416 v 42.21368 c 0,0.74494 -1.18754,1.24158 -2.96879,1.24158 z"
+   id="path10325" />
+
+
+<path
+   style="fill:#efc278;fill-opacity:0.979275;stroke-width:1.15515"
+   d="M 303.14765,122.3404 H 195.07182 c -5.4259,0 -9.82508,15.56605 -9.82508,34.76531 v 243.3674 c 0,19.19925 4.39918,34.76529 9.82508,34.76529 h 108.07583 c 5.42591,0 9.82509,-15.56604 9.82509,-34.76529 v -243.3674 c 0,-19.19926 -4.39918,-34.76531 -9.82509,-34.76531 z"
+   id="path1871" /><path
+   style="fill:#f5b763;fill-opacity:1;stroke-width:1.1745"
+   d="m 282.56757,346.32745 c 0,28.96806 -6.78276,52.45022 -15.14985,52.45022 H 201.7688 c -5.57823,0 -10.09982,15.65362 -10.09982,34.96692 h 75.74874 10.09988 25.24946 c 5.57833,0 10.09993,-15.65365 10.09993,-34.96692 v -244.76723 0 0 c -16.73419,0 -30.29942,46.96467 -30.29942,104.90034 z"
+   id="path1879" /></svg>

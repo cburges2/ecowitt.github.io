@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 512 512"
+   xml:space="preserve"
+   sodipodi:docname="window-shade-open.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2983" /><sodipodi:namedview
+   id="namedview2981"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="1.05875"
+   inkscape:cx="400.94451"
+   inkscape:cy="400.47226"
+   inkscape:window-width="1920"
+   inkscape:window-height="1027"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   style="fill:#DBD6D2;"
+   d="M35.31,494.345H17.655c-5.297,0-8.828-3.531-8.828-8.828s3.531-8.828,8.828-8.828H35.31  c5.297,0,8.828,3.531,8.828,8.828S40.607,494.345,35.31,494.345"
+   id="path2944" />
+<path
+   style="fill:#EDE7E9;"
+   d="M52.966,476.69h406.069V35.31H52.966V476.69z"
+   id="path2946" />
+<path
+   style="fill:#556080;"
+   d="M88.276,476.69h335.448V70.621H88.276V476.69z"
+   id="path2948" />
+<g
+   id="g2956">
+	<path
+   style="fill:#DBD6D2;"
+   d="M476.69,476.69H35.31v17.655c0,9.71,7.945,17.655,17.655,17.655h406.069   c9.71,0,17.655-7.945,17.655-17.655V476.69z"
+   id="path2950" />
+	<path
+   style="fill:#DBD6D2;"
+   d="M459.034,0H52.966C43.255,0,35.31,7.945,35.31,17.655S43.255,35.31,52.966,35.31h406.069   c9.71,0,17.655-7.945,17.655-17.655S468.745,0,459.034,0"
+   id="path2952" />
+	<path
+   style="fill:#DBD6D2;"
+   d="M494.345,494.345H476.69c-5.297,0-8.828-3.531-8.828-8.828s3.531-8.828,8.828-8.828h17.655   c5.297,0,8.828,3.531,8.828,8.828S499.641,494.345,494.345,494.345"
+   id="path2954" />
+</g>
+
+
+
+<path
+   style="fill:#87aade;stroke-width:0.94451"
+   d="M 138.37072,427.86305 V 110.97993 H 400 661.62928 V 427.86305 744.74616 H 400 138.37072 Z"
+   id="path3886"
+   transform="scale(0.64)" /><rect
+   style="fill:#ffffff;stroke-width:0.64"
+   id="rect4147"
+   width="379.61746"
+   height="47.754429"
+   x="67.097992"
+   y="44.731998" /></svg>

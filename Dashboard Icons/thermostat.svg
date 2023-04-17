@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="335.88312mm"
+   height="248.25974mm"
+   viewBox="0 0 335.88311 248.25974"
+   version="1.1"
+   id="svg1272"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="thermostat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1274"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.75455247"
+     inkscape:cx="569.21158"
+     inkscape:cy="502.28449"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1269">
+    <rect
+       x="318.06934"
+       y="202.7692"
+       width="209.39565"
+       height="123.25187"
+       id="rect2413" />
+    <rect
+       x="758.06525"
+       y="295.53943"
+       width="62.288578"
+       height="72.890892"
+       id="rect2355" />
+    <rect
+       x="331.32224"
+       y="217.34738"
+       width="194.81747"
+       height="116.62542"
+       id="rect2349" />
+    <rect
+       x="341.92453"
+       y="219.99796"
+       width="205.41978"
+       height="108.67369"
+       id="rect2339" />
+    <rect
+       x="291.56354"
+       y="209.39565"
+       width="208.07034"
+       height="127.22773"
+       id="rect2333" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(50.493506,39.974026)">
+    <path
+       style="fill:#ececec;stroke-width:0.396078"
+       d="M 38.746753,75.564933 V 15.603896 h 75.915587 75.91558 V 75.564933 135.52597 H 114.66234 38.746753 Z"
+       id="path2007" />
+    <path
+       style="fill:#f2f2f2;stroke-width:0.490656"
+       d="M 7.5389598,79.948049 V -2.9805196 H 115.01299 222.48701 V 79.948049 162.87662 H 115.01299 7.5389598 Z M 189.72357,77.280759 V 19.327749 H 114.02016 38.316741 v 57.95301 57.953001 h 75.703419 75.70341 z"
+       id="path2217" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.82223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;inline-size:32.1031;display:inline;fill:#999999;stroke-width:0.264583"
+       x="90.818176"
+       y="24.545456"
+       id="text2275"
+       transform="matrix(2.6462211,0,0,5.525364,-146.78228,-120.30875)"><tspan
+         x="90.818176"
+         y="24.545456"
+         id="tspan2871">Honeywell</tspan></text>
+    <path
+       style="fill:#939dac;stroke-width:0.499517"
+       d="m 35.941556,78.720784 v -57.5065 h 79.071434 79.07142 v 57.5065 57.506486 H 115.01299 35.941556 Z"
+       id="path2594" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.81232485,0,0,0.94410406,-173.21479,-133.17151)"
+       id="text2411"
+       style="font-weight:bold;font-size:60px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect2413);display:inline;fill:#1a1a1a"><tspan
+         x="318.07031"
+         y="257.50935"
+         id="tspan2873">69</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.19021px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#1a1a1a;stroke-width:0.119837"
+       x="137.88486"
+       y="24.501455"
+       id="text2473"
+       transform="scale(0.76549815,1.3063389)"><tspan
+         sodipodi:role="line"
+         id="tspan2471"
+         style="stroke-width:0.119837"
+         x="137.88486"
+         y="24.501455">12:00 am</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7729px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke-width:0.196214"
+       x="100.32222"
+       y="52.899445"
+       id="text2419"
+       transform="scale(0.8379013,1.193458)"><tspan
+         sodipodi:role="line"
+         id="tspan2417"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#4d4d4d;stroke-width:0.196214"
+         x="100.32222"
+         y="52.899445">45% Humidity</tspan></text>
+  </g>
+</svg>
