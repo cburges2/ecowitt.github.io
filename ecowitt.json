@@ -32,7 +32,7 @@
       "11": "<i class=\"ewi-wind${windCompass}\"></i> ${windSpeed} &deg; ${windCompass}<br><i class=\"ewi-windspeed\"></i> ${windSpeed} mph<br>Gust: ${windGust} mph<br>Daily Max: ${windGustMaxDaily} mph",
       "15":  "<i class=\"ewi-temperature\"></i> ${temperature} &deg;F",
       "15B": "<i class=\"ewi-temperature\"></i> ${temperature} &deg;F<br><i class=\"ewi-batt${batteryIcon}\"></i> ${battery} %",
-      "16": "<i class=\"ewi-temperature\"></i> ${temperature} &deg;F<br><i class=\"ewi-humidity\"></i> ${humidity} %<br><i class=\"ewi-wind${windCompass}\"></i> ${windSpeed}&deg; ${windCompass}",
+      "16": "<i class=\"ewi-temperature\"></i> ${temperature} &deg;F<br><i class=\"ewi-humidity\"></i> ${humidity} %<br><i class=\"ewi-wind${windCompass}\"></i> ${windSpeed}; ${windCompass}",
       "17": "<i class=\"ewi-rain\"></i> Hourly: ${rainHourly} in<br>Daily: ${rainDaily} in<br>Weekly: ${rainWeekly} in"
     },
     "templatesMetric": {
