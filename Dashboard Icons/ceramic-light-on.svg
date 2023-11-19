@@ -311,4 +311,83 @@
      d="m 220.9849,285.50262 c -0.896,-1.67419 0.0315,-4.24885 1.53061,-4.24885 1.39375,0 2.19019,3.15456 1.12154,4.44221 -0.65475,0.78892 -2.1862,0.67727 -2.65215,-0.19336 z"
      id="path52"
      transform="scale(0.03)" />
+  <circle
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path53"
+     cx="2.5936918"
+     cy="6.9665279"
+     r="0.15004829" />
+  <circle
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path54"
+     cx="5.9483428"
+     cy="6.1198263"
+     r="0.16076602" />
+  <circle
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path55"
+     cx="4.812263"
+     cy="8.1776314"
+     r="0.16076602" />
+  <circle
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path56"
+     cx="4.8872867"
+     cy="4.9515934"
+     r="0.15004829" />
+  <ellipse
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path57"
+     cx="7.2666245"
+     cy="7.5560026"
+     rx="0.17148376"
+     ry="0.16076602" />
+  <ellipse
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path58"
+     cx="2.0470874"
+     cy="5.9804959"
+     rx="0.16076602"
+     ry="0.12861282" />
+  <ellipse
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path59"
+     cx="2.4329257"
+     cy="8.166914"
+     rx="0.13933055"
+     ry="0.12861282" />
+  <ellipse
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path60"
+     cx="3.0652723"
+     cy="4.5550375"
+     rx="0.15004829"
+     ry="0.13933055" />
+  <ellipse
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path61"
+     cx="7.7060513"
+     cy="4.0298681"
+     rx="0.13933055"
+     ry="0.12861282" />
+  <circle
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path62"
+     cx="5.3159962"
+     cy="10.353332"
+     r="0.12861282" />
+  <ellipse
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path63"
+     cx="4.4264245"
+     cy="12.261088"
+     rx="0.096459612"
+     ry="0.10717735" />
+  <ellipse
+     style="fill:#ffcc00;stroke-width:0.03"
+     id="path64"
+     cx="3.9226909"
+     cy="7.2559061"
+     rx="0.15004829"
+     ry="0.13933055" />
 </svg>
