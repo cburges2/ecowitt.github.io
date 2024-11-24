@@ -4,11 +4,11 @@
 <svg
    version="1.1"
    id="Capa_1"
-   viewBox="0 0 504.44281 370.93234"
+   viewBox="0 0 501.92374 449.65313"
    xml:space="preserve"
    sodipodi:docname="vanity_light.svg"
-   width="504.44281"
-   height="370.93234"
+   width="501.92374"
+   height="449.65314"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,7 +25,7 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="1.5878906"
    inkscape:cx="256"
-   inkscape:cy="114.93235"
+   inkscape:cy="193.65314"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
@@ -34,14 +34,14 @@
    inkscape:current-layer="g14"><inkscape:page
      x="0"
      y="0"
-     width="504.44281"
-     height="370.93234"
+     width="501.92374"
+     height="449.65314"
      id="page14"
      margin="0 0 0"
      bleed="0" /></sodipodi:namedview>
 <g
    id="g14"
-   transform="translate(0,-141.06766)">
+   transform="translate(0,-62.346872)">
 	<path
    style="fill:#576d7e;stroke-width:0.636569"
    d="m 432,296 v -19.45059 c 0,-17.87551 -35.891,-32.41766 -80,-32.41766 -44.109,0 -80,14.54215 -80,32.41766 h -8 v 3.24176 c 0,1.79027 -3.578,3.24177 -8,3.24177 -4.422,0 -8,-1.4515 -8,-3.24177 v -3.24176 h -8 c 0,-17.87551 -35.891,-32.41766 -80,-32.41766 -44.109,0 -80,14.54215 -80,32.41766 V 296 H 64 v -19.45059 c 0,-21.44996 43.063,-38.90119 96,-38.90119 39.34,0 73.188,9.64628 88,23.40068 v -20.15892 c 0,-1.79026 3.578,-3.24176 8,-3.24176 4.422,0 8,1.4515 8,3.24176 v 20.15892 c 14.813,-13.7544 48.66,-23.40068 88,-23.40068 52.938,0 96,17.45123 96,38.90119 V 296 Z"
