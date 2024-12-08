@@ -15,7 +15,45 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs6" />
+     id="defs6">
+    <filter
+       inkscape:label="Blur"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Blur the contents of objects, preserving the outline and adding progressive transparency at edges"
+       style="color-interpolation-filters:sRGB;"
+       id="filter1"
+       x="-0.0090564102"
+       y="-0.18321816"
+       width="1.0181128"
+       height="1.3664363">
+      <feGaussianBlur
+         result="result6"
+         stdDeviation="3"
+         in="SourceGraphic"
+         id="feGaussianBlur1" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+         result="result7"
+         in="SourceGraphic"
+         id="feColorMatrix1" />
+      <feComposite
+         operator="in"
+         in="result6"
+         in2="result7"
+         id="feComposite1"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix2" />
+      <feGaussianBlur
+         id="feGaussianBlur2"
+         stdDeviation="2 2"
+         result="blur"
+         in="fbSourceGraphic" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      id="namedview6"
      pagecolor="#ffffff"
@@ -26,11 +64,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.01625"
-     inkscape:cx="1307.2571"
+     inkscape:cx="1568.0197"
      inkscape:cy="106.76507"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
@@ -38,6 +76,13 @@
      style="fill:#005522;stroke-width:0.403872"
      d="m 210.01711,187.00053 c 5.46566,-0.41516 11.90679,-0.33469 20.91268,0.26125 3.65599,0.24193 2.06598,0.48235 -5.72409,0.86553 -4.75695,0.23399 -7.2747,0.21468 -13.04286,-0.1 -3.93139,-0.21448 -7.266,-0.43879 -7.41023,-0.49848 -0.14424,-0.0597 2.22479,-0.29743 5.2645,-0.52831 z"
      id="path7" />
+  <ellipse
+     style="opacity:0.677;fill:#ffdd55;stroke-width:0.790759;filter:url(#filter1)"
+     id="path1"
+     ry="32.747845"
+     rx="662.51416"
+     cy="181.74976"
+     cx="810.87372" />
   <path
      style="fill:#005522;stroke-width:0.403872"
      d="m 221.3915,178.97167 c 3.6821,-1.82559 6.79088,-3.19986 6.90841,-3.05395 0.39241,0.48715 -2.85138,3.04884 -5.25449,4.14957 -2.20616,1.01054 -7.56929,2.54613 -8.11041,2.32221 -0.13102,-0.0542 2.7744,-1.59225 6.45649,-3.41783 z"
@@ -4914,4 +4959,9 @@
      d="m 1387.3,179.96736 c -3.2768,0 -5.4611,-0.64275 -5.4611,-1.60698 v -4.82111 c 0,-0.96422 2.1843,-1.60697 5.4611,-1.60697 3.2768,0 5.4611,0.64275 5.4611,1.60697 v 4.82111 c 0,0.96423 -2.1843,1.60698 -5.4611,1.60698 z"
      id="path32-7-7"
      style="stroke-width:0.347171" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1"
+     style="opacity:0.677" />
 </svg>
