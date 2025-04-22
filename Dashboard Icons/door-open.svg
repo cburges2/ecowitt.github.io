@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   width="800px"
+   height="800px"
+   viewBox="-13.22 0 122.88 122.88"
+   version="1.1"
+   id="Layer_1"
+   style="enable-background:new 0 0 96.43 122.88"
+   xml:space="preserve"
+   sodipodi:docname="door-open.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs1" /><sodipodi:namedview
+   id="namedview1"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.01625"
+   inkscape:cx="400"
+   inkscape:cy="400"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<style
+   type="text/css"
+   id="style1">.st0{fill-rule:evenodd;clip-rule:evenodd;}</style>
+
+<g
+   id="g1"
+   transform="matrix(0.66304499,0,0,1,15.114391,0.15114393)"
+   style="fill:#666666">
+
+<path
+   class="st0"
+   d="M 0,115.27 H 4.39 V 1.99 0 h 1.99 82.93 1.99 v 1.99 113.28 h 5.14 v 7.61 H 0 Z M 13.88,8.32 h 67.92 0.83 v 0.83 104.89 h 4.69 V 3.97 H 8.36 v 111.3 h 4.69 V 9.15 8.32 Z m 2.06,105.72 H 75.1 L 74.72,113.89 46.96,110.1 V 33.9 L 79.75,13.24 V 11.2 H 15.94 Z M 51.7,59.66 55.93,58.45 V 74.26 L 51.7,72.73 Z"
+   id="path1"
+   style="fill:#666666" />
+
+</g>
+
+<path
+   style="fill:#666666;stroke-width:0.553014"
+   d="m 184.99385,776.38376 v -24.60024 h 9.34809 9.3481 V 376.38376 0.98400984 H 390.65191 577.61378 V 376.38376 751.78352 h 11.31611 11.31611 v 24.60024 24.60025 H 392.61993 184.99385 Z M 241.08241,403.93604 V 56.088561 H 390.65191 540.2214 V 400 743.91144 h 10.82411 10.82411 V 385.23985 26.568266 H 391.14391 220.4182 V 389.17589 751.78352 h 10.33211 10.3321 z m 267.06595,338.99707 c -0.53809,-0.53809 -26.86281,-6.2936 -58.49939,-12.79003 -31.63657,-6.49643 -58.51736,-12.04247 -59.73507,-12.32454 l -2.21402,-0.51286 0.0171,-247.70573 0.0171,-247.70573 70.83165,-67.25701 70.83164,-67.257028 V 80.59046 73.800738 H 391.14391 252.89053 V 408.85609 743.91144 h 128.11808 c 84.91641,0 127.78818,-0.3299 127.13975,-0.97833 z m -82.30203,-335.90458 -0.26207,-25.93582 -9.1021,3.9137 -9.10209,3.91368 v 43.09096 43.09096 l 9.10209,4.91462 9.1021,4.91462 0.26207,-25.98346 c 0.14414,-14.2909 0.14414,-37.65457 0,-51.91926 z"
+   id="path2"
+   transform="matrix(0.1536,0,0,0.1536,-13.22,0)" /></svg>
