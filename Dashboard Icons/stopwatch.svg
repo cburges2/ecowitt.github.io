@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   height="399.508"
+   width="399.508"
+   version="1.1"
+   id="Capa_1"
+   viewBox="0 0 29.9631 29.9631"
+   xml:space="preserve"
+   sodipodi:docname="stopwatch.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.01625"
+   inkscape:cx="400"
+   inkscape:cy="400"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1" />
+<circle
+   style="fill:#00aa00;stroke-width:0.5"
+   cx="15"
+   cy="14.5"
+   id="circle1"
+   r="14.5" />
+<path
+   style="fill:#008033;stroke-width:0.5"
+   d="M 15,30 C 6.729,30 0,23.271 0,15 0,11.0035 1.5535,7.243 4.3745,4.412 4.764,4.0195 5.398,4.0195 5.7885,4.409 6.18,4.799 6.181,5.432 5.7915,5.823 3.3465,8.2775 2,11.536 2,15 2,22.1685 7.8315,28 15,28 22.1685,28 28,22.1685 28,15 28,8.1685 22.7025,2.5505 16,2.038 v 5.3785 c 0,0.552 -0.448,1 -1,1 -0.552,0 -1,-0.448 -1,-1 V 1 c 0,-0.552 0.448,-1 1,-1 8.271,0 15,6.729 15,15 0,8.271 -6.729,15 -15,15 z"
+   id="path1" />
+<path
+   style="fill:#008000;stroke-width:0.5"
+   d="m 10,10.0605 v 0 l 6.472,4.6815 c 0.637,0.463 0.7095,1.386 0.1525,1.943 v 0 c -0.557,0.557 -1.4795,0.4845 -1.943,-0.1525 z"
+   id="path2" />
+</svg>
