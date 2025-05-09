@@ -6,7 +6,7 @@
    id="Layer_1"
    viewBox="0 0 495.62606 509.48093"
    xml:space="preserve"
-   sodipodi:docname="midea-ac-fan.svg"
+   sodipodi:docname="ac-fan.svg"
    width="495.62607"
    height="509.48093"
    inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
@@ -35,7 +35,7 @@
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="1.5878906"
    inkscape:cx="256"
-   inkscape:cy="310.1599"
+   inkscape:cy="309.53014"
    inkscape:window-width="1920"
    inkscape:window-height="1009"
    inkscape:window-x="-8"
@@ -46,7 +46,7 @@
    style="fill:#f2f2f2;stroke-width:0.884165"
    d="m 0.62976646,129.49666 v 272.52946 c 0,12.44984 11.97806954,22.54494 26.75009154,22.54494 H 466.98669 c 14.77202,0 26.75009,-10.09591 26.75009,-22.54494 V 129.49666 c 0,-12.4596 -11.97807,-22.54494 -26.75009,-22.54494 H 27.379858 c -14.772022,0 -26.75009154,10.08534 -26.75009154,22.54494 z"
    id="path1" /><path
-   style="fill:#999999;stroke-width:0.359093"
+   style="fill:#008000;stroke-width:0.359093"
    d="m 20.335793,121.41984 v 48.81901 c 0,2.23018 11.029616,4.03854 24.63195,4.03854 H 449.76534 c 13.60233,0 24.63195,-1.80851 24.63195,-4.03854 v -48.81901 c 0,-2.23192 -11.02962,-4.03854 -24.63195,-4.03854 H 44.967743 c -13.602334,0 -24.63195,1.80662 -24.63195,4.03854 z"
    id="path1-2" /><g
    inkscape:groupmode="layer"
@@ -1474,14 +1474,14 @@
    transform="matrix(3.4585438,0,0,3.7577135,-484.40072,-547.63841)"><tspan
      x="202.78516"
      y="206.80539"
-     id="tspan1">72</tspan></text><text
+     id="tspan3">72</tspan></text><text
    xml:space="preserve"
    id="text12"
    style="white-space:pre;shape-inside:url(#rect12);display:inline;fill:#333333;stroke-width:0.562"
    transform="matrix(1.6864084,0,0,1.8127041,-22.849892,-163.22075)"><tspan
      x="32.117188"
      y="209.95382"
-     id="tspan2">Midea</tspan></text><path
+     id="tspan4">Midea</tspan></text><path
    sodipodi:type="spiral"
    style="fill:none;fill-rule:evenodd;stroke:#000000"
    id="path12"
