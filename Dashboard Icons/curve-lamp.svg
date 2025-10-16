@@ -22,7 +22,7 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="1.5878937"
-   inkscape:cx="255.68462"
+   inkscape:cx="255.36974"
    inkscape:cy="255.9995"
    inkscape:window-width="2880"
    inkscape:window-height="1514"
@@ -80,7 +80,10 @@
    height="18.892952"
    x="24.560837"
    y="495.62509" /><polygon
-   style="fill:#ffb464;fill-opacity:1"
+   style="fill:#999999;fill-opacity:1"
    points="334.617,10.199 177.382,10.199 97.411,227.175 414.589,227.175 "
    id="polygon2"
-   transform="matrix(0.54103795,0,0,0.37218255,224.40978,83.216001)" /></svg>
+   transform="matrix(0.55692216,0,0,0.4012072,216.56483,77.881857)" /><path
+   style="fill:#ffb464;fill-opacity:1;stroke-width:0.566372"
+   d="m 402.1003,86.336399 41.25432,80.551351 v 0 H 275.8371 v 0 l 40.62925,-83.128994 v 0 z"
+   id="path4" /></svg>
