@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- (c) ammap.com | SVG weather icons -->
+
+<svg
+   version="1.1"
+   width="64"
+   height="64"
+   viewbox="0 0 64 64"
+   id="svg13"
+   sodipodi:docname="mostly-hazy-sun.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.609375"
+     inkscape:cx="31.960347"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs2">
+    <filter
+       id="blur"
+       width="1.4030227"
+       height="1.6944444"
+       x="-0.20654912"
+       y="-0.28472222">
+      <feGaussianBlur
+         in="SourceAlpha"
+         stdDeviation="3"
+         id="feGaussianBlur1" />
+      <feOffset
+         dx="0"
+         dy="4"
+         result="offsetblur"
+         id="feOffset1" />
+      <feComponentTransfer
+         id="feComponentTransfer1">
+        <feFuncA
+           type="linear"
+           slope="0.05"
+           id="feFuncA1" />
+      </feComponentTransfer>
+      <feMerge
+         id="feMerge2">
+        <feMergeNode
+           id="feMergeNode1" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode2" />
+      </feMerge>
+    </filter>
+    <style
+       type="text/css"
+       id="style2"><![CDATA[
+/*
+** CLOUDS
+*/
+@keyframes am-weather-cloud-2 {
+  0% {
+    -webkit-transform: translate(0px,0px);
+       -moz-transform: translate(0px,0px);
+        -ms-transform: translate(0px,0px);
+            transform: translate(0px,0px);
+  }
+
+  50% {
+    -webkit-transform: translate(2px,0px);
+       -moz-transform: translate(2px,0px);
+        -ms-transform: translate(2px,0px);
+            transform: translate(2px,0px);
+  }
+
+  100% {
+    -webkit-transform: translate(0px,0px);
+       -moz-transform: translate(0px,0px);
+        -ms-transform: translate(0px,0px);
+            transform: translate(0px,0px);
+  }
+}
+
+.am-weather-cloud-2 {
+  -webkit-animation-name: am-weather-cloud-2;
+     -moz-animation-name: am-weather-cloud-2;
+          animation-name: am-weather-cloud-2;
+  -webkit-animation-duration: 3s;
+     -moz-animation-duration: 3s;
+          animation-duration: 3s;
+  -webkit-animation-timing-function: linear;
+     -moz-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+     -moz-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+/*
+** SUN
+*/
+@keyframes am-weather-sun {
+  0% {
+    -webkit-transform: rotate(0deg);
+       -moz-transform: rotate(0deg);
+        -ms-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+       -moz-transform: rotate(360deg);
+        -ms-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+.am-weather-sun {
+  -webkit-animation-name: am-weather-sun;
+     -moz-animation-name: am-weather-sun;
+      -ms-animation-name: am-weather-sun;
+          animation-name: am-weather-sun;
+  -webkit-animation-duration: 9s;
+     -moz-animation-duration: 9s;
+      -ms-animation-duration: 9s;
+          animation-duration: 9s;
+  -webkit-animation-timing-function: linear;
+     -moz-animation-timing-function: linear;
+      -ms-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+     -moz-animation-iteration-count: infinite;
+      -ms-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+
+@keyframes am-weather-sun-shiny {
+  0% {
+    stroke-dasharray: 3px 10px;
+    stroke-dashoffset: 0px;
+  }
+
+  50% {
+    stroke-dasharray: 0.1px 10px;
+    stroke-dashoffset: -1px;
+  }
+
+  100% {
+    stroke-dasharray: 3px 10px;
+    stroke-dashoffset: 0px;
+  }
+}
+
+.am-weather-sun-shiny line {
+  -webkit-animation-name: am-weather-sun-shiny;
+     -moz-animation-name: am-weather-sun-shiny;
+      -ms-animation-name: am-weather-sun-shiny;
+          animation-name: am-weather-sun-shiny;
+  -webkit-animation-duration: 2s;
+     -moz-animation-duration: 2s;
+      -ms-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-timing-function: linear;
+     -moz-animation-timing-function: linear;
+      -ms-animation-timing-function: linear;
+          animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+     -moz-animation-iteration-count: infinite;
+      -ms-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+}
+        ]]></style>
+  </defs>
+  <g
+     filter="url(#blur)"
+     id="cloudy-day-2">
+    <g
+       transform="translate(20,10)"
+       id="g13">
+      <g
+         transform="translate(0,16)"
+         id="g11">
+        <g
+           class="am-weather-sun"
+           id="g10">
+          <g
+             id="g2">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line2" />
+          </g>
+          <g
+             transform="rotate(45)"
+             id="g3">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line3" />
+          </g>
+          <g
+             transform="rotate(90)"
+             id="g4">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line4" />
+          </g>
+          <g
+             transform="rotate(135)"
+             id="g5">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line5" />
+          </g>
+          <g
+             transform="rotate(180)"
+             id="g6">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line6" />
+          </g>
+          <g
+             transform="rotate(225)"
+             id="g7">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line7" />
+          </g>
+          <g
+             transform="rotate(270)"
+             id="g8">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line8" />
+          </g>
+          <g
+             transform="rotate(315)"
+             id="g9">
+            <line
+               fill="none"
+               stroke="orange"
+               stroke-linecap="round"
+               stroke-width="2"
+               transform="translate(0,9)"
+               x1="0"
+               x2="0"
+               y1="0"
+               y2="3"
+               id="line9" />
+          </g>
+        </g>
+        <circle
+           cx="0"
+           cy="0"
+           fill="orange"
+           r="5"
+           stroke="orange"
+           stroke-width="2"
+           id="circle10" />
+      </g>
+      <g
+         class="am-weather-cloud-2"
+         id="g12">
+        <path
+           d="M47.7,35.4c0-4.6-3.7-8.2-8.2-8.2c-1,0-1.9,0.2-2.8,0.5c-0.3-3.4-3.1-6.2-6.6-6.2c-3.7,0-6.7,3-6.7,6.7c0,0.8,0.2,1.6,0.4,2.3    c-0.3-0.1-0.7-0.1-1-0.1c-3.7,0-6.7,3-6.7,6.7c0,3.6,2.9,6.6,6.5,6.7l17.2,0C44.2,43.3,47.7,39.8,47.7,35.4z"
+           fill="#91C0F8"
+           stroke="white"
+           stroke-linejoin="round"
+           stroke-width="1.2"
+           transform="translate(-20,-11)"
+           id="path11" />
+      </g>
+    </g>
+  </g>
+  <path
+     d="m 8.5291202,26.486807 c 10.8602968,-11.231711 16.0155018,0.445678 22.5454278,0.445678 5.155203,0 11.547656,-11.677416 18.696207,-2.139374 -8.179589,-5.081014 -11.203977,5.794136 -19.727248,5.794136 -6.529926,0 -9.073161,-10.072883 -21.5143868,-4.100467"
+     fill="#979797"
+     id="path1"
+     style="stroke-width:0.78276" />
+  <path
+     d="M 49.770755,35.490008 C 43.447036,28.715317 39.39161,34.242036 34.16767,37.094532 c -3.299331,1.782812 -6.736134,1.337116 -10.172936,-3.387337 2.474496,1.158827 7.904646,4.991869 13.266059,-1.782813 -4.605317,2.674215 -10.379145,0.802266 -15.053196,-2.22851 -5.155206,-3.29821 -9.348105,-3.833042 -13.6784768,2.22851 2.6807058,-2.674216 6.5986608,-2.05023 9.6230478,-0.980547 -1.92461,0.08915 -6.117509,0.713131 -9.6230478,7.755229 10.5853538,-11.409991 14.4345718,4.189603 22.7516358,4.189603 8.042118,0 7.286022,-11.677406 18.489999,-7.398659"
+     fill="#d0d0d0"
+     id="path2"
+     style="stroke-width:0.78276" />
+  <path
+     d="M 8.5291202,22.653764 C 9.8351051,17.840175 18.977001,10.887203 26.263024,22.742664 16.090086,16.681348 8.5291202,22.653764 8.5291202,22.653764"
+     fill="#979797"
+     id="path3"
+     style="stroke-width:0.78276" />
+  <path
+     d="m 36.09228,17.751031 c 4.261634,-6.061562 11.066505,-2.76336 13.678475,0.267425 -2.13082,-0.356598 -8.592005,-2.139365 -11.341449,1.782813 -4.399108,6.061561 -9.554314,5.170159 -11.203979,3.030785 0,-0.0889 5.223941,0.178253 8.866953,-5.081014"
+     fill="#d0d0d0"
+     id="path4"
+     style="stroke-width:0.78276" />
+  <path
+     d="M 38.36057,31.656966 C 43.859452,19.801269 49.770755,29.785008 49.770755,29.785008 43.309564,26.843368 38.36057,31.656966 38.36057,31.656966"
+     fill="#979797"
+     id="path5"
+     style="stroke-width:0.78276" />
+</svg>
