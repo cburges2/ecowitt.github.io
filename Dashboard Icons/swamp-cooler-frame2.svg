@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 393.3581 510.09669"
+   xml:space="preserve"
+   sodipodi:docname="swamp-cooler-frame2.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   width="393.35809"
+   height="510.09668"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs11" /><sodipodi:namedview
+   id="namedview11"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="1.5761719"
+   inkscape:cx="196.67906"
+   inkscape:cy="254.09665"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   style="fill:#e6e6e6"
+   d="M 29.120283,509.46221 H 364.87228 c 15.338,0 27.775,-12.437 27.775,-27.775 v -456.45 c 0,-15.3380001 -12.438,-27.7750002 -27.775,-27.7750002 H 29.120283 c -15.35,0 -27.7750006,12.4370001 -27.7750006,27.7750002 v 456.45 c 0,15.338 12.4250006,27.775 27.7750006,27.775 z"
+   id="path1" />
+<circle
+   style="fill:#b3b3b3"
+   cx="-183.07822"
+   cy="196.9903"
+   r="152.927"
+   id="circle1"
+   transform="rotate(-90)" />
+
+<g
+   id="g11"
+   transform="rotate(-90,225.22925,284.23296)">
+	<rect
+   x="40.784"
+   y="111.306"
+   style="fill:#4d4d4d"
+   width="94.640999"
+   height="18.201"
+   id="rect5" />
+	<rect
+   x="40.784"
+   y="246.89301"
+   style="fill:#4d4d4d"
+   width="94.640999"
+   height="18.201"
+   id="rect6" />
+	<rect
+   x="40.784"
+   y="337.293"
+   style="fill:#4d4d4d"
+   width="94.640999"
+   height="18.201"
+   id="rect7" />
+	<rect
+   x="40.784"
+   y="292.09299"
+   style="fill:#4d4d4d"
+   width="94.640999"
+   height="18.201"
+   id="rect8" />
+	<rect
+   x="40.784"
+   y="382.492"
+   style="fill:#4d4d4d"
+   width="94.640999"
+   height="18.201"
+   id="rect9" />
+	<rect
+   x="40.784"
+   y="201.70599"
+   style="fill:#4d4d4d"
+   width="94.640999"
+   height="18.201"
+   id="rect10" />
+	<rect
+   x="40.784"
+   y="156.506"
+   style="fill:#4d4d4d"
+   width="94.640999"
+   height="18.201"
+   id="rect11" />
+</g>
+
+</svg>
